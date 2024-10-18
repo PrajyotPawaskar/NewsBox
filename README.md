@@ -5,7 +5,7 @@ Features
  - Responsive Design: Utilizing Tailwind CSS, the app offers a clean and responsive user interface that adapts seamlessly to different devices.
  - State Management: Redux Toolkit is used for efficient state management, ensuring a smooth and fast user experience.
  - OAuth Authentication: Users can log in securely using popular social media accounts, enhancing user engagement and personalization.
-Technologies Used
+ - Technologies Used
  - Frontend: React.js, Tailwind CSS
  - State Management: Redux Toolkit
  - Authentication: OAuth 2.0
