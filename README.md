@@ -1,8 +1,12 @@
-# React + Vite
+This project is a dynamic News App built with React.js, Tailwind CSS, and Redux Toolkit. Users can easily browse and view news articles categorized by various topics, providing a tailored reading experience. The app includes OAuth authentication for secure user access, allowing users to sign in with their preferred social media accounts.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Categorized News: Users can explore news articles organized by categories such as Technology, Sports, Health, and more.
+Responsive Design: Utilizing Tailwind CSS, the app offers a clean and responsive user interface that adapts seamlessly to different devices.
+State Management: Redux Toolkit is used for efficient state management, ensuring a smooth and fast user experience.
+OAuth Authentication: Users can log in securely using popular social media accounts, enhancing user engagement and personalization.
+Technologies Used
+Frontend: React.js, Tailwind CSS
+State Management: Redux Toolkit
+Authentication: OAuth 2.0
+APIs: Integration with news APIs to fetch and display real-time news articles.
